@@ -12,7 +12,7 @@
 <!-- - 💬 Ask me about **react** -->
 - 📫 How to reach me **bijayjenaofficial@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/bijayjena](linkedin.com/in/bijayjena)
+- 📄 Know about my experiences [linkedin.com/in/bijayjena](https://www.linkedin.com/in/bijayjena/)
 <!-- - ⚡ Fun fact **I think I am funny** -->
 
 <h3 align="left">Connect with me:</h3>
