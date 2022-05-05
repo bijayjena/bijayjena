@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Shivay!](https://shivaylamba.me) 
+### Hey 👋🏽, I'm [Bijay!]<!--(https://bijayjena.me) -->
 <!-- <br/>
 
 <a href="https://twitter.com/howdevelop">
@@ -10,18 +10,15 @@
 --> 
 
 
-Hi, I'm Shivay Lamba, a Web Developer, Machine Learning Enthusiast and Open Source Developer🚀 from India. <br> <br> 
-[![Linkedin Badge](https://img.shields.io/badge/-ShivayLamba-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shivaylamba)](https://www.linkedin.com/in/shivaylamba/)
+Hi, I'm Bijay Jena, a Web Developer, Machine Learning Enthusiast and Open Source Developer🚀 from India. <br> <br> 
+[![Linkedin Badge](https://img.shields.io/badge/-BijayJena-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/bijayjena)](https://www.linkedin.com/in/bijayjena/)
 [![Twitter Badge](http://img.shields.io/badge/-@howdevelop-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/howdevelop)](https://twitter.com/howdevelop) 
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:shivaylamba@gmail.com)](mailto:shivaylamba@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:bijayjenaofficial@gmail.com)](mailto:bijayjenaofficial@gmail.com)
 <br />
-![](https://visitor-badge.glitch.me/badge?page_id=shivaylamba.shivaylamba)  <br> 
-<!--
-**shivaylamba/shivaylamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---> 
+![](https://visitor-badge.glitch.me/badge?page_id=bijayjena.bijayjena)  <br> 
 
 
-- Web Development - Machine Learning - DevOps
+- Web Development - Flutter Development - Machine Learning
 
 
 **Languages and Tools:**  
@@ -35,4 +32,4 @@ Hi, I'm Shivay Lamba, a Web Developer, Machine Learning Enthusiast and Open Sour
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Shivay's github stats](https://github-readme-stats.vercel.app/api?username=shivaylamba&show_icons=true&hide_border=true)
+![Bijay's github stats](https://github-readme-stats.vercel.app/api?username=bijayjena&show_icons=true&hide_border=true)
