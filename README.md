@@ -1,18 +1,18 @@
 ### Hey 👋🏽, I'm [Bijay!]<!--(https://bijayjena.me) -->
 <!-- <br/>
 
-<a href="https://twitter.com/howdevelop">
-  <img align="left" alt="Shivay Lamba | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/bijaykjena">
+  <img align="left" alt="Bijay Jena | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/shivaylamba/">
-  <img align="left" alt="Shivay's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/bijayjena/">
+  <img align="left" alt="Bijay's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 --> 
 
 
 Hi, I'm Bijay Jena, a Web Developer, Machine Learning Enthusiast and Open Source Developer🚀 from India. <br> <br> 
 [![Linkedin Badge](https://img.shields.io/badge/-BijayJena-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/bijayjena)](https://www.linkedin.com/in/bijayjena/)
-[![Twitter Badge](http://img.shields.io/badge/-@howdevelop-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/howdevelop)](https://twitter.com/howdevelop) 
+[![Twitter Badge](http://img.shields.io/badge/-@bijaykjena-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/bijaykjena)](https://twitter.com/bijaykjena) 
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:bijayjenaofficial@gmail.com)](mailto:bijayjenaofficial@gmail.com)
 <br />
 ![](https://visitor-badge.glitch.me/badge?page_id=bijayjena.bijayjena)  <br> 
