@@ -1,17 +1,7 @@
 ### Hey 👋🏽, I'm [Bijay!]<!--(https://bijayjena.me) -->
-<!-- <br/>
 
-<a href="https://twitter.com/bijayjn">
-  <img align="left" alt="Bijay Jena | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/bijayjena/">
-  <img align="left" alt="Bijay's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
---> 
-
-
-Hi, I'm Bijay Jena, a Web Developer, Machine Learning Enthusiast and Open Source Developer🚀 from India. <br> <br> 
-[![Linkedin Badge](https://img.shields.io/badge/-BijayJena-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/bijayjena)](https://www.linkedin.com/in/bijayjena/)
+Hi, I'm Bijay Jena, a Web Developer, Flutter Enthusiast and Open Source Developer🚀 from India. <br> <br> 
+[![Linkedin Badge](https://img.shields.io/badge/-Bijay%20Jena-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/bijayjena)](https://www.linkedin.com/in/bijayjena/)
 [![Twitter Badge](http://img.shields.io/badge/-@bijayjn-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/bijaykjena)](https://twitter.com/bijayjn) 
 [![Gmail Badge](https://img.shields.io/badge/-bijayjenaoffcial-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:bijayjenaofficial@gmail.com)](mailto:bijayjenaofficial@gmail.com)
 <br />
