@@ -12,7 +12,7 @@
 
 Hi, I'm Bijay Jena, a Web Developer, Machine Learning Enthusiast and Open Source Developer🚀 from India. <br> <br> 
 [![Linkedin Badge](https://img.shields.io/badge/-BijayJena-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/bijayjena)](https://www.linkedin.com/in/bijayjena/)
-[![Twitter Badge](http://img.shields.io/badge/-@bijaykjena-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/bijaykjena)](https://twitter.com/bijaykjena) 
+[![Twitter Badge](http://img.shields.io/badge/-@bijayjn-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/bijaykjena)](https://twitter.com/bijayjn) 
 [![Gmail Badge](https://img.shields.io/badge/-bijayjenaoffcial-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:bijayjenaofficial@gmail.com)](mailto:bijayjenaofficial@gmail.com)
 <br />
 ![](https://visitor-badge.glitch.me/badge?page_id=bijayjena.bijayjena)  <br> 
