@@ -1,7 +1,7 @@
 ### Hey 👋🏽, I'm [Bijay!]<!--(https://bijayjena.me) -->
 <!-- <br/>
 
-<a href="https://twitter.com/bijaykjena">
+<a href="https://twitter.com/bijayjn">
   <img align="left" alt="Bijay Jena | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/bijayjena/">
