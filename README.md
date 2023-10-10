@@ -1,25 +1,30 @@
-### Hey 👋🏽, I'm [Bijay!]<!--(https://bijayjena.me) -->
+![Header](https://github.com/bijayjena/bijayjena/blob/main/git.jpg)
 
-Hi, I'm Bijay Jena, a Web Developer, Flutter Enthusiast and Open Source Developer🚀 from India. <br> <br> 
-[![Linkedin Badge](https://img.shields.io/badge/-Bijay%20Jena-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/bijayjena)](https://www.linkedin.com/in/bijayjena/)
-[![Twitter Badge](http://img.shields.io/badge/-@bijayjn-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/bijaykjena)](https://twitter.com/bijayjn) 
-[![Gmail Badge](https://img.shields.io/badge/-bijayjenaoffcial-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:bijayjenaofficial@gmail.com)](mailto:bijayjenaofficial@gmail.com)
-<br />
-![](https://visitor-badge.glitch.me/badge?page_id=bijayjena.bijayjena)  <br> 
+I'm a Full Stack Developer and Mobile App Developer currently working at Squbix Digital Pvt Ltd. I have a passion for creating web and mobile applications that make people's lives easier.
 
+## About Me
 
-- Web Development - Flutter Development - Machine Learning
+- 🏢 I'm currently working on a Wallet App where users can load money and transact seamlessly.
+- 💻 I have experience with Python, SQL, Excel, and Big Data technologies like Hadoop, Hive, HBase, Kafka, and Spark.
+- 🌐 I've developed a simple website for co2network.green and created React Native modules for Bluetooth and Wi-Fi.
+- 📊 I've explored Data Analysis and Data Engineering for personal projects.
+- 📈 I'm a financial enthusiast and can discuss investment and finances for hours.
 
+## Interests
 
-**Languages and Tools:**  
+- 📺 I love watching Anime in my free time.
+- 🌍 Geopolitics is a fascinating subject for me.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+## Writing on Medium
 
-![Bijay's github stats](https://github-readme-stats.vercel.app/api?username=bijayjena&show_icons=true&hide_border=true)
+I also share my insights and experiences on Medium. Check out my articles on various tech and finance topics:
+
+[![Medium](https://img.shields.io/badge/Medium-Follow%20Me-green)](https://medium.com/@bijayjenaofficial)
+
+## Future Goals
+
+I aspire to be a freelancer and business owner someday, combining my technical skills with my passion for finance and technology.
+
+Feel free to reach out to me for collaboration or to discuss any interesting projects. Let's connect and build something great together! 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bijayjena/)
